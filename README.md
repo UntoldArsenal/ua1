@@ -8,6 +8,9 @@ This template is one I grabbed from elsewhere, and I am just making minimal chan
 
 The first piece to come up here, is a simple model which can model a football league (Association Football, such as the English Premier League).  It is written in Perl, and makes use of some modules from CPAN.  At the moment, I am assuming that people that come here, understand what CPAN is, and have installed modules from CPAN in the past.
 
+Perhaps this [Plan](Plan.md) page is useful for a plan on things to do?  Or a starting point for conversations?
+
+
 ```
 Everything past this point has NOT been edited.  Or rather, some things removed so that you don't click on something you shouldn't have clicked on.
 ```

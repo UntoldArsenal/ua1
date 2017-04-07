@@ -29,7 +29,14 @@ The C<finish> element of league was never used.
 
 As written, this program assumes you are running this inside a
 debugger, and that you stop (set a breakpoint) at the last executable
-line of the program (line 225).
+line of the program (line 232).
+
+=head1 License
+
+Copyright 2017 by Gordon Haverland <untold@materialisations.com>.  The
+License is that typically found on Perl software, namely your choice
+of the GNU General Public License or the Artistic License.  See
+F<LICENSE> file for the long version.
 
 =cut
 
@@ -223,3 +230,4 @@ for( my $trial = 0; $trial < 1000; $trial++ ) {
 # @z = sort {$count12Rest->{$a} <=> $count12Rest->{$b}} keys(%$count12Rest)
 # foreach my $iz (@z) { print "$iz\t$count12Rest->{$iz}\n"; }
 print "done\n";
+
