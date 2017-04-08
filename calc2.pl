@@ -25,6 +25,16 @@ sign, which is a bug.
 
 There is no error trapping here.
 
+Much of this code is lifted from RosettaCode.  The code lifted, is
+rudimentally wrapped in a subroutine call, and preceeding that
+subroutine is a comment saying where it comes from.  In a couple of
+incidences, I have moved code.
+
+The content I have contributed here, is the C<toNWE()> subroutine, and
+modifying the C<myE()> subroutine.  I made some changes to take
+content from a string, instead of reading STDIN.  It is only such
+minor contributions I claim as mine.
+
 Copyright 2017 Gordon Haverland untold@materialisations.com
 
 =cut
