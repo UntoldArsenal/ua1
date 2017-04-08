@@ -101,6 +101,10 @@ can get an estimate of precision.
 
 It may be that Python, Ruby, ... have similar modules.  I don't know.
 
+The file calc2.pl sort of implements a command line RPN calculator
+which grafts Number::WithError onto its usage.  As it stands, if
+someone executes it it prints out 3 lines and quits.
+
 ## Matrix Inversion
 
 Many people are surprised to learn that:
