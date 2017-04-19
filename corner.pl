@@ -56,7 +56,12 @@ every step we recalculate a straight line fit to all the data.
 Equation 3 on page 133 is the generic equation used to detect if a new
 point is conistent or inconsistent with the old trend.
 
-Nothing worthy of copyright here.
+Nothing worthy of copyright here.  Sorry, I am mistaken.  Even if the
+code is utilitarian and someone wants to cut and paste it, what
+Copyright seeks prevent, is someone just taking this code and
+presenting it as theirs.  Which includes the name of the program.  So, ...
+
+Copyright 2017, Gordon Haverland <untold@materialisations.com>
 
 =cut
 
